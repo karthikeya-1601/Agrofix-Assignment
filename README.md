@@ -65,12 +65,5 @@ This is the backend server for AgroFix, designed to manage bulk vegetable and fr
 
 Built with Express.js, connected to a simple in-memory (mock) database.
 ## Structure
-bulk-order-api/
-├── db/
-│   └── index.js            # Simple mock database logic
-├── routes/
-│   ├── products.js         # Routes for product listing
-│   └── orders.js           # Routes for placing and tracking orders
-├── .env                    # Environment variables
-├── server.js               # Server entry point
-└── package.json            # Project metadata and scripts
+![image](https://github.com/user-attachments/assets/c8c235ff-02ee-4fa8-8f3d-473961f34e57)
+
